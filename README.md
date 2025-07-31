@@ -52,6 +52,9 @@ This project was completed as part of a group project under ExcelR’s Data Anal
 - Collaborated in a team using industry tools  
 - Hands-on experience with Excel dashboards, Power BI, SQL, Tableau
 
+- ✅ This project demonstrates hands-on data analytics skills across the full workflow – from data cleaning and KPI development to dashboard design and insight presentation.
+
+
 ---
 
 ## 📁 Project Files:
